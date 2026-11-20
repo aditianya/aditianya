@@ -4,46 +4,33 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Coding Illustration" />
 </p>
 
-***3rd-Year B.Tech Student | Full-Stack Developer | Tech Enthusiast Exploring New Frontiers***
+***CSE Undergrad at IIIT Bhagalpur '28 | Full-Stack & AI Developer | Competitive Programmer***
 
 ---
 
 ### 🌱 About Me
 
-- 🎓 Pursuing **B.Tech** as a 3rd-year student passionate about building scalable software and solving complex algorithmic problems.
-- 🚀 **Proactive learner** — always ready to explore emerging tools, adapt quickly to new technologies, and turn ideas into working code.
-- 💻 Interested in **Web Development**, **Data Structures & Algorithms**, and **Machine Learning**.
-- 🗣️ Active member of **Samwaad** (Literature & Public Speaking Club), combining technical problem-solving with clear communication.
+- 🎓 Pursuing **B.Tech in Computer Science and Engineering** at **IIIT Bhagalpur** (2024–2028)[cite: 5].
+- 🚀 **Proactive learner & tech enthusiast** — always ready to explore emerging tools, adapt quickly to new technologies, and turn ideas into scalable products.
+- 💻 Passionate about **Full-Stack Web Development**, **Generative AI Integrations**, and **Data Structures & Algorithms**[cite: 4, 5].
+- 🏆 Solved **800+ coding problems** across platforms (400+ on LeetCode with a **1687 max rating**, 2★ on CodeChef) and shortlisted at the institute level for **Smart India Hackathon (SIH) 2025**[cite: 5].
+- 🗣️ **Coordinator** at the Training & Placement Cell, **Mentor** at Adhyaay, and active member of **Samwaad** & **Unnati Welfare Society**[cite: 5].
 - ✨ Believer in: *"Stay curious, adapt fast, and keep building."*
 
 ---
 
-### 🔭 What I'm Working On
+### 🔭 Featured Projects
 
-- 🌍 Developing **Travel & Tours**, a modern, responsive web application built with React and Vite.
-- 🧩 Sharpening my algorithmic problem-solving skills in **C++** on **LeetCode** and **GeeksforGeeks**.
-- 📊 Exploring **Data Clustering** algorithms and foundational **Machine Learning** concepts.
+- 🌍 **Travel & Tours Web Application** *(React.js, Vite, Node.js, Express.js, MongoDB, Redux Toolkit)* — Built a full-stack booking and tour management platform with RESTful APIs, authentication, and responsive UI[cite: 4, 5].
+- 🤖 **CivicConnect AI** *(React.js, Node.js, Express.js, Firebase, Cloudinary, Gemini API)* — Engineered an AI-powered civic engagement platform leveraging Google Gemini multimodal AI for automated issue classification, priority assignment, and real-time citizen/admin dashboards[cite: 4, 5].
+- 🌦️ **Weather Application** *(React.js, Vite, OpenWeather API)* — Developed a responsive real-time weather dashboard with asynchronous API integration and dynamic location-based rendering[cite: 4, 5].
 
 ---
 
 ### 🧰 Tech Stack
 
-- **Languages:** C++, Java, JavaScript, HTML5, CSS3
-- **Frontend:** React, Vite, PostCSS
-- **Tools & Platforms:** Git, GitHub, PowerShell, AWS, Overleaf
-- **CS Fundamentals:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Software Engineering
-
----
-
-### 🚀 Goals
-
-- Strengthen competitive programming and core problem-solving skills.
-- Build clean, user-centric, and scalable full-stack web applications.
-- Continuously adapt to modern AI and cloud technologies.
-- Grow from a curious student developer into a versatile software engineer.
-
----
-
-### 🤝 Connect With Me
-
-- 💼 **LinkedIn:** [Aditi Maity](https://www.linkedin.com/in/aditi-maity-621466325/)
+- **Languages:** C, C++, JavaScript, HTML5, CSS3[cite: 5]
+- **Frontend:** React.js, Vite, Redux Toolkit, React Router, Axios[cite: 4, 5]
+- **Backend & APIs:** Node.js, Express.js, RESTful APIs, Google Gemini API[cite: 4, 5]
+- **Databases & Cloud:** MongoDB, Mongoose, PostgreSQL, Firebase Firestore, Cloudinary, Vercel[cite: 4, 5]
+- **Tools & CS Fundamentals:** Git, GitHub, Canva, DSA, OOP, DBMS, Operating Systems, COA
