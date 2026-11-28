@@ -23,7 +23,6 @@
 
 - 🌍 **Travel & Tours Web Application** *(React.js, Vite, Node.js, Express.js, MongoDB, Redux Toolkit)* — Built a full-stack booking and tour management platform with RESTful APIs, authentication, and responsive UI.
 - 🤖 **CivicConnect AI** *(React.js, Node.js, Express.js, Firebase, Cloudinary, Gemini API)* — Engineered an AI-powered civic engagement platform leveraging Google Gemini multimodal AI for automated issue classification, priority assignment, and real-time citizen/admin dashboards.
-- 🌦️ **Weather Application** *(React.js, Vite, OpenWeather API)* — Developed a responsive real-time weather dashboard with asynchronous API integration and dynamic location-based rendering.
 
 ---
 
